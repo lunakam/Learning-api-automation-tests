@@ -87,3 +87,6 @@ https://jsonplaceholder.typicode.com/
     }
 }
 ```
+
+Segue o Link para api gratuita com mais cenários de validação https://reqres.in/
+aproveitem !!!
