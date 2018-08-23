@@ -87,4 +87,3 @@ https://jsonplaceholder.typicode.com/
     }
 }
 ```
-# Learning-api-automation-tests
